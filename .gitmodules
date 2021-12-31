@@ -1,0 +1,6 @@
+[submodule "flask-docker-rest-api"]
+	path = flask-docker-rest-api
+	url = https://github.com/debeshmandal/flask-docker-rest-api
+[submodule "docker-react-example"]
+	path = docker-react-example
+	url = https://github.com/debeshmandal/docker-react-example
